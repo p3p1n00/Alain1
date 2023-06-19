@@ -1,423 +1,219 @@
 #EXTM3U
-#EXTINF:-1 group-title="LATINOS",-----ARGENTINA-----
-
-#EXTINF:-1 group-title="LATINOS",ARGENTINA | TELEFE
-http://192.99.70.160:25461/Victor/Victor/91135
-#EXTINF:-1 group-title="LATINOS",ARGENTINA | 5RTV SANTA FE
-http://192.99.70.160:25461/Victor/Victor/91137
-#EXTINF:-1 group-title="LATINOS",ARGENTINA | 5TV CORRIENTES
-http://192.99.70.160:25461/Victor/Victor/91138
-#EXTINF:-1 group-title="LATINOS",ARGENTINA | 9 MULTIVISION
-http://192.99.70.160:25461/Victor/Victor/91139
-#EXTINF:-1 group-title="LATINOS",ARGENTINA | CHACRA TV
-http://192.99.70.160:25461/Victor/Victor/91143
-#EXTINF:-1 group-title="LATINOS",ARGENTINA | CIUDAD TV CHACO
-http://192.99.70.160:25461/Victor/Victor/91144
-#EXTINF:-1 group-title="LATINOS",ARGENTINA | FENIX TV
-http://192.99.70.160:25461/Victor/Victor/91145
-#EXTINF:-1 group-title="LATINOS",ARGENTINA | TLX
-http://192.99.70.160:25461/Victor/Victor/91146
-#EXTINF:-1 group-title="LATINOS",ARGENTINA | TELEMAX
-http://192.99.70.160:25461/Victor/Victor/91147
-#EXTINF:-1 group-title="LATINOS",ARGENTINA | Telpin Canal 2
-http://192.99.70.160:25461/Victor/Victor/91148
-#EXTINF:-1 group-title="LATINOS",-----CHILE-----
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-V6aDzu13DkE/VeT2yGjAcJI/AAAAAAAAIkE/KCKLjxl2ZR8/s1600/13i.png" group-title="LATINOS",13I
-http://192.99.70.160:25461/Victor/Victor/221
-#EXTINF:-1 tvg-logo="https://noticias.unab.cl/wp-content/uploads/2018/07/24-horas-e1532701395821.jpg" group-title="LATINOS",24HORAS
-http://192.99.70.160:25461/Victor/Victor/222
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_%28Chile%29_logo.svg/478px-Canal_13_%28Chile%29_logo.svg.png" group-title="LATINOS",CANAL 13
-http://192.99.70.160:25461/Victor/Victor/223
-#EXTINF:-1 tvg-logo="https://farodeportivo.s3.sa-east-1.amazonaws.com/wp-content/uploads/2017/11/15172014/Pablo-Milad-CDF.png" group-title="LATINOS",CDF
-http://192.99.70.160:25461/Victor/Victor/224
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-premium_m.png" group-title="LATINOS",CDO PREMIUN
-http://192.99.70.160:25461/Victor/Victor/228
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/logo_chilevision.jpg" group-title="LATINOS",CHILEVISION
-http://192.99.70.160:25461/Victor/Victor/229
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="LATINOS",ETC TV
-http://192.99.70.160:25461/Victor/Victor/230
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/1200px-La_Red_Logotipo.svg.png" group-title="LATINOS",LA RED
-http://192.99.70.160:25461/Victor/Victor/231
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cl-pinguino-tv-1219.jpg" group-title="LATINOS",PINGUINO TV
-http://192.99.70.160:25461/Victor/Victor/235
-#EXTINF:-1 group-title="LATINOS",-----COLOMBIA-----
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="LATINOS",ADN 40
-http://192.99.70.160:25461/Victor/Victor/14
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/874398170146643968/5lII2Wbl_400x400.jpg" group-title="LATINOS",Caracol.
-http://192.99.70.160:25461/Victor/Victor/254
-#EXTINF:-1 tvg-logo="https://www.valoraanalitik.com/wp-content/uploads/2018/07/RCNTV.jpg" group-title="LATINOS",RCN.
-http://192.99.70.160:25461/Victor/Victor/255
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="LATINOS",NTN24.
-http://192.99.70.160:25461/Victor/Victor/257
-#EXTINF:-1 tvg-logo="https://img.new.livestream.com/accounts/00000000008fda44/dac7e231-0eea-489f-8123-7eb57fe1aef7.jpg" group-title="LATINOS",TELEANTIOQUIA
-http://192.99.70.160:25461/Victor/Victor/264
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DjzjiL_KtLU/XnuXWQZu4sI/AAAAAAAAWdI/EuRODcEXf4QhShf-PRsdwSkF8Eo2je3cwCLcBGAsYHQ/s1600/descarga.jpg" group-title="LATINOS",TELECARIBE
-http://192.99.70.160:25461/Victor/Victor/265
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/sdi/2021/01/15/caracol-television-primer-lugar-ranking-de-audiencia-2021-883847.jpg" group-title="LATINOS",CARACOL
-http://192.99.70.160:25461/Victor/Victor/34
-#EXTINF:-1 group-title="LATINOS",-----ECUADOR-----
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/44/56/03/445603f1f3be3708d3bf74ec435376fb.png" group-title="LATINOS",CANAL UNO
-http://192.99.70.160:25461/Victor/Victor/355
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ec-ecuador-tv-5198.jpg" group-title="LATINOS",ECUADOR TV
-http://192.99.70.160:25461/Victor/Victor/356
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-EI3mJRm3-lU/WhL0RuTOFOI/AAAAAAAAcsk/9nEFbNi8I-0ut_xY3JjwCDK4TsFMqRjlACLcBGAs/w1200-h630-p-k-no-nu/EcuadorTV%2BInternacional%2Ben%2Bvivo.PNG" group-title="LATINOS",ECUADOR TV INTERNACIONAL
-http://192.99.70.160:25461/Victor/Victor/357
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="LATINOS",ECUAVISA
-http://192.99.70.160:25461/Victor/Victor/358
-#EXTINF:-1 tvg-logo="https://www.gamavision.com.ec/wp-content/uploads/2020/05/gamavision-logo.png" group-title="LATINOS",GAMAVISION
-http://192.99.70.160:25461/Victor/Victor/360
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bc/8e/14/bc8e14348424cc7c2dae4feec71e5a27.jpg" group-title="LATINOS",TC TELEVISION
-http://192.99.70.160:25461/Victor/Victor/362
-#EXTINF:-1 tvg-logo="https://www.practicasejemplaresecuador.com/wp-content/uploads/2017/11/teleamazonas.png" group-title="LATINOS",TELEAMAZONAS
-http://192.99.70.160:25461/Victor/Victor/363
-#EXTINF:-1 group-title="LATINOS",-----HONDURAS-----
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="LATINOS",TEN Canal 10 (720p)
-http://192.99.70.160:25461/Victor/Victor/103273
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mIMat1y.jpg" group-title="LATINOS",Sercano TV
-http://192.99.70.160:25461/Victor/Victor/3717
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S69lDu4.png" group-title="LATINOS",Activa TV (720p)
-http://192.99.70.160:25461/Victor/Victor/103239
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mpc4Isd.png" group-title="LATINOS",Choluteca TV (1080p)
-http://192.99.70.160:25461/Victor/Victor/103246
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="LATINOS",CHTV (360p)
-http://192.99.70.160:25461/Victor/Victor/103247
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BcmQhry.png" group-title="LATINOS",CTV Internacional (1080p)
-http://192.99.70.160:25461/Victor/Victor/103248
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IC30j61.png" group-title="LATINOS",Ebenezer TV
-http://192.99.70.160:25461/Victor/Victor/103251
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BqS8BHi.png" group-title="LATINOS",La Metro TV (720p)
-http://192.99.70.160:25461/Victor/Victor/103256
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KBYUOcP.png" group-title="LATINOS",LTV (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/103258
-#EXTINF:-1 group-title="LATINOS",Sula TV (720p)
-http://192.99.70.160:25461/Victor/Victor/103267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BACuUSc.png" group-title="LATINOS",TeleDanlí (Canal 9) (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/103270
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yBDI3AF.png" group-title="LATINOS",TeleProgreso (720p)
-http://192.99.70.160:25461/Victor/Victor/103271
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HQiKyHy.jpg" group-title="LATINOS",TEN Canal 10
-http://192.99.70.160:25461/Victor/Victor/3722
-#EXTINF:-1 group-title="LATINOS",-----MEXICO-----
-
-#EXTINF:-1 group-title="LATINOS",MEXICO | RCG SALTILLO
-http://192.99.70.160:25461/Victor/Victor/106378
-#EXTINF:-1 group-title="LATINOS",MEXICO | INGENIO TV
-http://192.99.70.160:25461/Victor/Victor/106379
-#EXTINF:-1 group-title="LATINOS",MEXICO | TELEVISA MONTERREY
-http://192.99.70.160:25461/Victor/Victor/106381
-#EXTINF:-1 group-title="LATINOS",MEXICO | MULTIMEDIOS TORREON
-http://192.99.70.160:25461/Victor/Victor/106384
-#EXTINF:-1 group-title="LATINOS",MEXICO | RCG
-http://192.99.70.160:25461/Victor/Victor/106385
-#EXTINF:-1 group-title="LATINOS",MEXICO | RCG 2
-http://192.99.70.160:25461/Victor/Victor/106386
-#EXTINF:-1 group-title="LATINOS",MEXICO | RCG 3
-http://192.99.70.160:25461/Victor/Victor/106387
-#EXTINF:-1 group-title="LATINOS",MEXICO | CANAL 24 NRT
-http://192.99.70.160:25461/Victor/Victor/106389
-#EXTINF:-1 group-title="LATINOS",MEXICO | TV MAS
-http://192.99.70.160:25461/Victor/Victor/106390
-#EXTINF:-1 group-title="LATINOS",MEXICO | ULTRA PUEBLA
-http://192.99.70.160:25461/Victor/Victor/106391
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Telemax_2022.png" group-title="LATINOS",MEXICO | TELEMAX
-http://192.99.70.160:25461/Victor/Victor/106392
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/co_az-corazon_m.png" group-title="LATINOS",AZ CORAZON
-http://192.99.70.160:25461/Victor/Victor/23
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="LATINOS",AZ MUNDO
-http://192.99.70.160:25461/Victor/Victor/24
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png" group-title="LATINOS",AZTECA 7
-http://192.99.70.160:25461/Victor/Victor/26
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_bandamax_m.png" group-title="LATINOS",BANDAMAX
-http://192.99.70.160:25461/Victor/Victor/27
-#EXTINF:-1 tvg-logo="https://hobbitmemes.com/wp-content/uploads/2020/10/1-24.png" group-title="LATINOS",CANAL ONCE
-http://192.99.70.160:25461/Victor/Victor/31
-#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="LATINOS",CANAL DE LAS ESTRELLAS
-http://192.99.70.160:25461/Victor/Victor/33
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="LATINOS",CANAL 10 CANCUN
-http://192.99.70.160:25461/Victor/Victor/620
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/714Zmt-qXcL.png" group-title="LATINOS",PRESUMIENDO MEXICO
-http://192.99.70.160:25461/Victor/Victor/622
-#EXTINF:-1 tvg-logo="https://www.amedi.org.mx/wp-content/uploads/2016/10/programacion-imagen-television.jpg" group-title="LATINOS",IMAGEN
-http://192.99.70.160:25461/Victor/Victor/94
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2020/07/14141848/logoNew.png" group-title="LATINOS",MEXIQUENSE
-http://192.99.70.160:25461/Victor/Victor/99
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="LATINOS",Canal 10 Cancún (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/103108
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="LATINOS",DW Español (1080p)
-http://192.99.70.160:25461/Victor/Victor/103126
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="LATINOS",El Histonauta TV (360p)
-http://192.99.70.160:25461/Victor/Victor/103129
-#EXTINF:-1 group-title="LATINOS",Estrella TV (1080p)
-http://192.99.70.160:25461/Victor/Victor/103139
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="LATINOS",HispanTV (480p)
-http://192.99.70.160:25461/Victor/Victor/103150
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="LATINOS",Jalisco TV (720p) [Geo-blocked]
-http://192.99.70.160:25461/Victor/Victor/103153
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="LATINOS",Lobo TV (720p)
-http://192.99.70.160:25461/Victor/Victor/103156
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="LATINOS",Mexiquense TV (720p)
-http://192.99.70.160:25461/Victor/Victor/103159
-#EXTINF:-1 group-title="LATINOS",-----PERU-----
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="LATINOS",Auténtica Televisión (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106202
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oNFOKFI.png" group-title="LATINOS",BHTV (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="LATINOS",Conecta2TV (Lima) (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106220
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="LATINOS",Cultura 24 (360p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106227
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="LATINOS",DMJ (Cuzco) (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106228
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="LATINOS",Nativa (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106252
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdosnOZ.png" group-title="LATINOS",Oasis RTV (Trujillo) (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106256
-#EXTINF:-1 tvg-logo="https://i.imgur.com/07rA14I.png" group-title="LATINOS",OK TeVe (Yurimaguas) (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106257
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3R2emx7.jpg" group-title="LATINOS",Onda Digital (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106258
-#EXTINF:-1 tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="LATINOS",Radio Rutas del Perú (360p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106271
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yhv3XyU.png" group-title="LATINOS",Teleamazonas
-http://192.99.70.160:25461/Victor/Victor/106284
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="LATINOS",Televisión Tarapoto (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106291
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QrUYjOS.png" group-title="LATINOS",Trivu (Lima) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106294
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="LATINOS",TV Cosmos (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106296
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="LATINOS",TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106300
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="LATINOS",Uranio TV (Yurimaguas) (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106305
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FiptbGQ.png" group-title="LATINOS",Vía Televisión (Tarapoto) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106307
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="LATINOS",WOW TV (576p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/106309
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sJfB0AE.png" group-title="LATINOS",X TV (Chachapoyas)
-http://192.99.70.160:25461/Victor/Victor/106310
-#EXTINF:-1 tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV-300x300.jpg" group-title="LATINOS",PANAMERICANA
-http://192.99.70.160:25461/Victor/Victor/684
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/per-mgico-en-vivo-1386.png" group-title="LATINOS",PERU MAGICO
-http://192.99.70.160:25461/Victor/Victor/685
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="LATINOS",LATINA
-http://192.99.70.160:25461/Victor/Victor/691
-#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="LATINOS",BHTV
-http://192.99.70.160:25461/Victor/Victor/693
-#EXTINF:-1 tvg-logo="https://teleon.tv/images/logos/cultura24tv-pe.png" group-title="LATINOS",CULTURA 24
-http://192.99.70.160:25461/Victor/Victor/695
-#EXTINF:-1 group-title="LATINOS",-----R.D-----
-
-#EXTINF:-1 group-title="LATINOS",RD | Zol106 (720p)
-http://192.99.70.160:25461/Victor/Victor/91386
-#EXTINF:-1 group-title="LATINOS",RD | Teleunion (480p)
-http://192.99.70.160:25461/Victor/Victor/91389
-#EXTINF:-1 group-title="LATINOS",RD | Telenord 8 (1080p)
-http://192.99.70.160:25461/Victor/Victor/91390
-#EXTINF:-1 group-title="LATINOS",RD | Telenord 12 (720p)
-http://192.99.70.160:25461/Victor/Victor/91391
-#EXTINF:-1 group-title="LATINOS",Telemilenio (720p)
-http://192.99.70.160:25461/Victor/Victor/91392
-#EXTINF:-1 group-title="LATINOS",RD | Telecanal 28 (360p)
-http://192.99.70.160:25461/Victor/Victor/91393
-#EXTINF:-1 group-title="LATINOS",RD | SiTV
-http://192.99.70.160:25461/Victor/Victor/91394
-#EXTINF:-1 group-title="LATINOS",RD | RNN (720p)
-http://192.99.70.160:25461/Victor/Victor/91395
-#EXTINF:-1 group-title="LATINOS",RD | Microvision 10 (720p)
-http://192.99.70.160:25461/Victor/Victor/91399
-#EXTINF:-1 group-title="LATINOS",RD | Microvision
-http://192.99.70.160:25461/Victor/Victor/91400
-#EXTINF:-1 group-title="LATINOS",RD | LVM 480
-http://192.99.70.160:25461/Victor/Victor/91401
-#EXTINF:-1 group-title="LATINOS",RD | HM (720p)
-http://192.99.70.160:25461/Victor/Victor/91402
-#EXTINF:-1 group-title="LATINOS",RD | DAN TV (720p)
-http://192.99.70.160:25461/Victor/Victor/91403
-#EXTINF:-1 group-title="LATINOS",R.DO : TELEMICRO
-http://192.99.70.160:25461/Victor/Victor/91404
-#EXTINF:-1 group-title="LATINOS",R.DO : DIGITAL 15
-http://192.99.70.160:25461/Victor/Victor/91405
-#EXTINF:-1 group-title="LATINOS",R.DO : COLORVISION
-http://192.99.70.160:25461/Victor/Victor/91406
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/1769eb87-a655-4ab6-99f5-343640682ce5_m.jpg" group-title="LATINOS",PASIONES
-http://192.99.70.160:25461/Victor/Victor/108
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="LATINOS",RCN
-http://192.99.70.160:25461/Victor/Victor/109
-#EXTINF:-1 tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="LATINOS",SHOWTIME
-http://192.99.70.160:25461/Victor/Victor/111
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png" group-title="LATINOS",TBS
-http://192.99.70.160:25461/Victor/Victor/119
-#EXTINF:-1 tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg" group-title="LATINOS",A3S
-http://192.99.70.160:25461/Victor/Victor/13
-#EXTINF:-1 tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="LATINOS",ANTENA 3
-http://192.99.70.160:25461/Victor/Victor/18
-#EXTINF:-1 tvg-logo="https://m.eltiempo.com/uploads/2017/09/06/59afb1bde5508.png" group-title="LATINOS",CITY TV
-http://192.99.70.160:25461/Victor/Victor/260
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_tru-tv_m.png" group-title="LATINOS",TruTV
-http://192.99.70.160:25461/Victor/Victor/367
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_unicable_m.png" group-title="LATINOS",Unicable
-http://192.99.70.160:25461/Victor/Victor/368
-#EXTINF:-1 tvg-logo="https://highnessdottv.files.wordpress.com/2016/11/comedy_central_logo-black.jpg" group-title="LATINOS",COMEDY CENTRAL
-http://192.99.70.160:25461/Victor/Victor/40
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="LATINOS",DISCOVERY TURBO
-http://192.99.70.160:25461/Victor/Victor/52
-#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/distrito-comedia_televisa_big.jpg" group-title="LATINOS",DISTRITO COMEDIA
-http://192.99.70.160:25461/Victor/Victor/57
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="LATINOS",EL GARAGE
-http://192.99.70.160:25461/Victor/Victor/59
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="LATINOS",A&E
-http://192.99.70.160:25461/Victor/Victor/6
-#EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/770x420/8/b/b/600x400_Estrella-TV-770.jpg" group-title="LATINOS",ESTRELLA TV
-http://192.99.70.160:25461/Victor/Victor/66
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="LATINOS",FX
-http://192.99.70.160:25461/Victor/Victor/80
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg" group-title="LATINOS",FXM
-http://192.99.70.160:25461/Victor/Victor/81
-#EXTINF:-1 tvg-logo="https://logopond.com/logos/b65f4139bec8707292f37b13d24c7081.png" group-title="LATINOS",GALA TV
-http://192.99.70.160:25461/Victor/Victor/82
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="LATINOS",GLITZ
-http://192.99.70.160:25461/Victor/Victor/83
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="LATINOS",HOLA TV
-http://192.99.70.160:25461/Victor/Victor/93
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png" group-title="LATINOS",LIFETIME
-http://192.99.70.160:25461/Victor/Victor/95
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/616231967407906816/hFYp8Jq9_400x400.jpg" group-title="LATINOS",MAS CHIC
-http://192.99.70.160:25461/Victor/Victor/96
-#EXTINF:-1 group-title="LATINOS",-----VENEZUELA-----
-
-#EXTINF:-1 group-title="LATINOS",VENEZUELA | IVC
-http://192.99.70.160:25461/Victor/Victor/91125
-#EXTINF:-1 group-title="LATINOS",VENEZUELA | LA TELE TUYA
-http://192.99.70.160:25461/Victor/Victor/91126
-#EXTINF:-1 group-title="LATINOS",VENEZUELA | CANAL I
-http://192.99.70.160:25461/Victor/Victor/91127
-#EXTINF:-1 group-title="LATINOS",VENEZUELA | TELEVEN
-http://192.99.70.160:25461/Victor/Victor/91128
-#EXTINF:-1 group-title="LATINOS",VENEZUELA | VENEVISION
-http://192.99.70.160:25461/Victor/Victor/91129
-#EXTINF:-1 group-title="LATINOS",VENEZUELA | VENEVISION PLUS
-http://192.99.70.160:25461/Victor/Victor/91130
-#EXTINF:-1 group-title="LATINOS",VENEZUELA | GLOBOVISION
-http://192.99.70.160:25461/Victor/Victor/91131
-#EXTINF:-1 group-title="LATINOS",VENEZUELA | MERIDIANO
-http://192.99.70.160:25461/Victor/Victor/91132
-#EXTINF:-1 group-title="LATINOS",VENEZUELA | TELESUR
-http://192.99.70.160:25461/Victor/Victor/91133
-#EXTINF:-1 group-title="LATINOS",VENEZUELA | PROMAR
-http://192.99.70.160:25461/Victor/Victor/91134
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo.svg/2560px-Afizzionados_Logo.svg.png" group-title="DEPORTES",AFIZZIONADOS
-http://192.99.70.160:25461/Victor/Victor/15
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="DEPORTES",WINSPORTS PLUS
-http://192.99.70.160:25461/Victor/Victor/267
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",BEIN SPORTS Ñ
-http://192.99.70.160:25461/Victor/Victor/28
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1280px-Fight_network_logo.svg.png" group-title="DEPORTES",Fight Networ
-http://192.99.70.160:25461/Victor/Victor/298
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="DEPORTES",Eleven Sports
-http://192.99.70.160:25461/Victor/Victor/309
-#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/297-2976535_deportes-tvc-deportes-2-logo.png" group-title="DEPORTES",TVC Deportes
-http://192.99.70.160:25461/Victor/Victor/347
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES",Win Sports
-http://192.99.70.160:25461/Victor/Victor/349
-#EXTINF:-1 tvg-logo="https://imgfz.com/i/EQWReb8.png" group-title="DEPORTES",DIRECTV SPORTS
-http://192.99.70.160:25461/Victor/Victor/350
-#EXTINF:-1 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/adrenalina-sports-network-2123.png" group-title="DEPORTES",Adrenalina Sport Network
-http://192.99.70.160:25461/Victor/Victor/353
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e3/4d/1f/e34d1fc9ac83767e8fbd67ffe3ff7234.png" group-title="DEPORTES",beIN Sports
-http://192.99.70.160:25461/Victor/Victor/354
-#EXTINF:-1 tvg-logo="https://plazatoros.tv/assets-new/images/Logo-Plaza-Toros-1.png" group-title="DEPORTES",TOROS TV
-http://192.99.70.160:25461/Victor/Victor/372
-#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/es-real-madrid-tv-8842.jpg" group-title="DEPORTES",REAL MADRID TV
-http://192.99.70.160:25461/Victor/Victor/373
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/captura_de_pantalla_2016-04-28_a_las_11.36.23_copia.png" group-title="DEPORTES",GOL PERU
-http://192.99.70.160:25461/Victor/Victor/686
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0023/7782/brand.gif" group-title="DEPORTES",WAPA 2
-http://192.99.70.160:25461/Victor/Victor/704
+#EXTINF:-1 group-title="LATINO",ARGENTINA | TELEFE
+http://elmonkey.us:25461/john/1234/91135
+#EXTINF:-1 group-title="LATINO",ARGENTINA | 9 MULTIVISION
+http://elmonkey.us:25461/john/1234/91139
+#EXTINF:-1 group-title="LATINO",ARGENTINA | CIUDAD TV CHACO
+http://elmonkey.us:25461/john/1234/91144
+#EXTINF:-1 group-title="LATINO",ARGENTINA | TELEMAX
+http://elmonkey.us:25461/john/1234/91147
+#EXTINF:-1 tvg-logo="https://www.gentecoyol.com/wp-content/uploads/2019/05/48383248_2069699959719496_3237791311184527360_n.png" group-title="LATINO",TELETICA 7
+http://elmonkey.us:25461/john/1234/269
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cS03qXKCfhg/XcTNojVQx-I/AAAAAAAA_iU/6v6vzFUegzgreZw2147o42-Zcnu-vIQ9wCLcBGAsYHQ/s1600/WIPR%2B-%2B2019.png" group-title="LATINO",WIPR
+http://elmonkey.us:25461/john/1234/710
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Rep11Logo.png" group-title="LATINO",REPRETEL 11
+http://elmonkey.us:25461/john/1234/271
+#EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2014/12/prenza-tv-sur.jpg" group-title="LATINO",CANAL 14 TV SUR
+http://elmonkey.us:25461/john/1234/273
+#EXTINF:-1 group-title="LATINO",USA | TUDN
+http://elmonkey.us:25461/john/1234/73545
+#EXTINF:-1 tvg-logo="https://ae01.alicdn.com/kf/HTB18aPhJpXXXXc3XpXXq6xXFXXXI/Calcoman-a-de-vinilo-para-pared-de-cine-pel-cula-cine-citas-Adhesivo-de-pared-con.jpg" group-title="LATINO",USA -L | JUNTOS
+http://elmonkey.us:25461/john/1234/239
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ec-ecuador-tv-5198.jpg" group-title="LATINO",ECUADOR TV
+http://elmonkey.us:25461/john/1234/356
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="LATINO",ECUAVISA
+http://elmonkey.us:25461/john/1234/358
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="LATINO",AZ MUNDO
+http://elmonkey.us:25461/john/1234/24
+#EXTINF:-1 tvg-logo="https://hobbitmemes.com/wp-content/uploads/2020/10/1-24.png" group-title="LATINO",CANAL ONCE
+http://elmonkey.us:25461/john/1234/31
+#EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="LATINO",CANAL DE LAS ESTRELLAS
+http://elmonkey.us:25461/john/1234/33
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S69lDu4.png" group-title="LATINO",Activa TV (720p)
+http://elmonkey.us:25461/john/1234/103239
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PMZlhTZ.png" group-title="LATINO",Alsacias TV (ATV | Canal 28) (720p)
+http://elmonkey.us:25461/john/1234/103240
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QLQgwc6.png" group-title="LATINO",CHTV (360p)
+http://elmonkey.us:25461/john/1234/103247
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BcmQhry.png" group-title="LATINO",CTV Internacional (1080p)
+http://elmonkey.us:25461/john/1234/103248
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yBDI3AF.png" group-title="LATINO",TeleProgreso (720p)
+http://elmonkey.us:25461/john/1234/103271
+#EXTINF:-1 tvg-logo="https://www.amedi.org.mx/wp-content/uploads/2016/10/programacion-imagen-television.jpg" group-title="LATINO",IMAGEN
+http://elmonkey.us:25461/john/1234/94
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/tu_canal_10_mexico.jpg" group-title="LATINO",CANAL 10 CANCUN
+http://elmonkey.us:25461/john/1234/620
+#EXTINF:-1 tvg-logo="https://rincontv.com/storage/app/uploads/public/5e6/62d/df6/5e662ddf6ce8e337475954.jpg" group-title="LATINO",CANAL 4 SALTILLO
+http://elmonkey.us:25461/john/1234/621
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/714Zmt-qXcL.png" group-title="LATINO",PRESUMIENDO MEXICO
+http://elmonkey.us:25461/john/1234/622
+#EXTINF:-1 group-title="LATINO",MEXICO | RCG
+http://elmonkey.us:25461/john/1234/106385
+#EXTINF:-1 group-title="LATINO",MEXICO | TV MAS
+http://elmonkey.us:25461/john/1234/106390
+#EXTINF:-1 tvg-logo="https://i.imgur.com/frd60hR.png" group-title="LATINO",Agrotendencia TV (1080p)
+http://elmonkey.us:25461/john/1234/103101
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="LATINO",Canal 10 Canc�n (720p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/103108
+#EXTINF:-1 group-title="LATINO",Estrella News (1080p)
+http://elmonkey.us:25461/john/1234/103138
+#EXTINF:-1 group-title="LATINO",Estrella TV (1080p)
+http://elmonkey.us:25461/john/1234/103139
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="LATINO",Mexiquense TV (720p)
+http://elmonkey.us:25461/john/1234/103159
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="LATINO",Telemax (XEWH-TDT) (720p)
+http://elmonkey.us:25461/john/1234/103204
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mw4992J.png" group-title="LATINO",TVP Obreg�n (542p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/103230
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="LATINO",NTN24.
+http://elmonkey.us:25461/john/1234/257
+#EXTINF:-1 tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV-300x300.jpg" group-title="LATINO",PANAMERICANA
+http://elmonkey.us:25461/john/1234/684
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="LATINO",LATINA
+http://elmonkey.us:25461/john/1234/691
+#EXTINF:-1 tvg-logo="https://bhtv.pe/wp-content/uploads/2020/08/descarga-4.jpg" group-title="LATINO",BHTV
+http://elmonkey.us:25461/john/1234/693
+#EXTINF:-1 tvg-logo="https://moyobamba.com/wp-content/uploads/2020/05/antarestv-mnc.png" group-title="LATINO",ANTARES TV
+http://elmonkey.us:25461/john/1234/694
+#EXTINF:-1 tvg-logo="https://img.new.livestream.com/accounts/00000000008fda44/dac7e231-0eea-489f-8123-7eb57fe1aef7.jpg" group-title="LATINO",TELEANTIOQUIA
+http://elmonkey.us:25461/john/1234/264
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DjzjiL_KtLU/XnuXWQZu4sI/AAAAAAAAWdI/EuRODcEXf4QhShf-PRsdwSkF8Eo2je3cwCLcBGAsYHQ/s1600/descarga.jpg" group-title="LATINO",TELECARIBE
+http://elmonkey.us:25461/john/1234/265
+#EXTINF:-1 tvg-logo="https://www.practicasejemplaresecuador.com/wp-content/uploads/2017/11/teleamazonas.png" group-title="LATINO",TELEAMAZONAS
+http://elmonkey.us:25461/john/1234/363
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/993581583507509249/6bbhb9Dv_400x400.jpg" group-title="LATINO",PUERTO RICO | TELEMUNDO
+http://elmonkey.us:25461/john/1234/568
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfHaLt2.png" group-title="LATINO",Conecta2TV (Lima) (720p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/106220
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KSePPeW.png" group-title="LATINO",DMJ (Cuzco) (720p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/106228
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="LATINO",Nativa (720p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/106252
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88Iyvm8.png" group-title="LATINO",Radio Rutas del Per� (360p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/106271
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="LATINO",TV Cosmos (720p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/106296
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yo1oTIh.png" group-title="LATINO",TV Sistemas Cuzco (Cuzco) (360p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/106300
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PL0pTxs.png" group-title="LATINO",Tvfaces Online (360p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/106302
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="LATINO",WOW TV (576p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/106309
+#EXTINF:-1 group-title="LATINO",RD |Telenord 8 (1080p)
+http://elmonkey.us:25461/john/1234/91390
+#EXTINF:-1 group-title="LATINO",Telemilenio (720p)
+http://elmonkey.us:25461/john/1234/91392
+#EXTINF:-1 group-title="LATINO",RD | RNN (720p)
+http://elmonkey.us:25461/john/1234/91395
+#EXTINF:-1 group-title="LATINO",VENEZUELA | IVC
+http://elmonkey.us:25461/john/1234/91125
+#EXTINF:-1 group-title="LATINO",VENEZUELA | CANAL I
+http://elmonkey.us:25461/john/1234/91127
+#EXTINF:-1 group-title="LATINO",VENEZUELA | TELESUR
+http://elmonkey.us:25461/john/1234/91133
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hsuJvVpC3M0/maxresdefault.jpg" group-title="LATINO",GALAVISION ALBUQUERQUE(W)
+http://elmonkey.us:25461/john/1234/586
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8_400x400.jpg" group-title="LATINO",GALAVISION ATLANTA(W)
+http://elmonkey.us:25461/john/1234/587
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/galavision.png" group-title="LATINO",GALAVISION DALLAS(W)
+http://elmonkey.us:25461/john/1234/590
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="LATINO",GALAVISION EAST(W)
+http://elmonkey.us:25461/john/1234/591
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/776461277820354560/qlnkXHo8.jpg" group-title="LATINO",GALAVISION FRESNO(W)
+http://elmonkey.us:25461/john/1234/592
+#EXTINF:-1 group-title="LATINO",GALAVISION MIAMI(W)
+http://elmonkey.us:25461/john/1234/596
+#EXTINF:-1 group-title="LATINO",GALAVISION PHOENIX(W)
+http://elmonkey.us:25461/john/1234/599
+#EXTINF:-1 group-title="LATINO",GALAVISION SACRAMENTO(W)
+http://elmonkey.us:25461/john/1234/601
+#EXTINF:-1 group-title="LATINO",GALAVISION SAN ANTONIO(W)
+http://elmonkey.us:25461/john/1234/603
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="LATINO",A&E
+http://elmonkey.us:25461/john/1234/6
+#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/interior/distrito-comedia_televisa_big.jpg" group-title="LATINO",DISTRITO COMEDIA
+http://elmonkey.us:25461/john/1234/57
+#EXTINF:-1 tvg-logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg" group-title="LATINO",E!
+http://elmonkey.us:25461/john/1234/58
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="LATINO",EL GARAGE
+http://elmonkey.us:25461/john/1234/59
+#EXTINF:-1 tvg-logo="https://s03.s3c.es/imag/_v0/770x420/8/b/b/600x400_Estrella-TV-770.jpg" group-title="LATINO",ESTRELLA TV
+http://elmonkey.us:25461/john/1234/66
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="LATINO",FX
+http://elmonkey.us:25461/john/1234/80
+#EXTINF:-1 tvg-logo="https://logopond.com/logos/b65f4139bec8707292f37b13d24c7081.png" group-title="LATINO",GALA TV
+http://elmonkey.us:25461/john/1234/82
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/606160676197920768/cbOnU666.png" group-title="LATINO",GLITZ
+http://elmonkey.us:25461/john/1234/83
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1101491804858433541/Y4ymYB5E_400x400.png" group-title="LATINO",HOLA TV
+http://elmonkey.us:25461/john/1234/93
+#EXTINF:-1 tvg-logo="https://m.eltiempo.com/uploads/2017/09/06/59afb1bde5508.png" group-title="LATINO",CITY TV
+http://elmonkey.us:25461/john/1234/260
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1200px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" group-title="DEPORTES",BEIN SPORTS �
+http://elmonkey.us:25461/john/1234/28
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1312112437005635585/MTzEo4fv_400x400.png" group-title="DEPORTES",FOX SPORTS
-http://192.99.70.160:25461/Victor/Victor/77
+http://elmonkey.us:25461/john/1234/77
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_fox-sports-2_m.png" group-title="DEPORTES",FOX SPORTS 2
-http://192.99.70.160:25461/Victor/Victor/78
+http://elmonkey.us:25461/john/1234/78
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-sports-3_m.png" group-title="DEPORTES",FOX SPORTS 3
-http://192.99.70.160:25461/Victor/Victor/79
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="DEPORTES",GOL TV
-http://192.99.70.160:25461/Victor/Victor/84
-#EXTINF:-1 group-title="DEPORTES",ESPAÑA : DAZN FORMULA 1
-http://192.99.70.160:25461/Victor/Victor/91044
-#EXTINF:-1 group-title="DEPORTES",BEIN SPORTS Ñ
-http://192.99.70.160:25461/Victor/Victor/117052
-#EXTINF:-1 group-title="DEPORTES",BEIN Sports Xtra
-http://192.99.70.160:25461/Victor/Victor/117055
-#EXTINF:-1 group-title="DEPORTES",BEIN Sports 3
-http://192.99.70.160:25461/Victor/Victor/117056
-#EXTINF:-1 group-title="DEPORTES",BEIN Sports 6
-http://192.99.70.160:25461/Victor/Victor/117057
-#EXTINF:-1 group-title="DEPORTES",Bein Sports XTRA Ñ
-http://192.99.70.160:25461/Victor/Victor/117059
-#EXTINF:-1 group-title="DEPORTES",GOL PERU
-http://192.99.70.160:25461/Victor/Victor/117096
-#EXTINF:-1 group-title="DEPORTES",MOVISTAR DEPORTES
-http://192.99.70.160:25461/Victor/Victor/117097
+http://elmonkey.us:25461/john/1234/79
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1280px-Fight_network_logo.svg.png" group-title="DEPORTES",Fight Networ
+http://elmonkey.us:25461/john/1234/298
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/ELEVEN_SPORTS.png" group-title="DEPORTES",Eleven Sports
+http://elmonkey.us:25461/john/1234/309
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/1906241.png" group-title="DEPORTES",CANADA | TSN 1
+http://elmonkey.us:25461/john/1234/339
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" group-title="DEPORTES",CANADA | TSN 5
+http://elmonkey.us:25461/john/1234/343
+#EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/297-2976535_deportes-tvc-deportes-2-logo.png" group-title="DEPORTES",TVC Deportes
+http://elmonkey.us:25461/john/1234/347
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/es-real-madrid-tv-8842.jpg" group-title="DEPORTES",REAL MADRID TV
+http://elmonkey.us:25461/john/1234/373
 #EXTINF:-1 group-title="DEPORTES",Latino | ESPN 3
-http://192.99.70.160:25461/Victor/Victor/91045
-#EXTINF:-1 group-title="DEPORTES",Latino | ESPN Deportes
-http://192.99.70.160:25461/Victor/Victor/91046
-#EXTINF:-1 group-title="DEPORTES",DEPORTES HD | ESPN 1 MX
-http://192.99.70.160:25461/Victor/Victor/91048
-#EXTINF:-1 group-title="DEPORTES",DEPORTES HD | ESPN 2 MX
-http://192.99.70.160:25461/Victor/Victor/91049
+http://elmonkey.us:25461/john/1234/91045
 #EXTINF:-1 group-title="DEPORTES",DEPORTES HD | ESPN 3 MX
-http://192.99.70.160:25461/Victor/Victor/91050
-#EXTINF:-1 group-title="DEPORTES",DEPORTES | ESPN  3  ARG
-http://192.99.70.160:25461/Victor/Victor/91053
-#EXTINF:-1 group-title="DEPORTES",DEPORTES | ESPN 1 MX
-http://192.99.70.160:25461/Victor/Victor/91054
-#EXTINF:-1 group-title="DEPORTES",DEPORTES | ESPN 2 MX
-http://192.99.70.160:25461/Victor/Victor/91055
+http://elmonkey.us:25461/john/1234/91050
 #EXTINF:-1 group-title="DEPORTES",DEPORTES | ESPN 3 MX
-http://192.99.70.160:25461/Victor/Victor/91056
-#EXTINF:-1 group-title="DEPORTES",DEPORTES | Espn Plus ARG
-http://192.99.70.160:25461/Victor/Victor/91058
-#EXTINF:-1 group-title="DEPORTES",ARG DEP | ESPN
-http://192.99.70.160:25461/Victor/Victor/91059
-#EXTINF:-1 group-title="DEPORTES",ARG DEP | ESPN 1 HD
-http://192.99.70.160:25461/Victor/Victor/91060
-#EXTINF:-1 group-title="DEPORTES",ARG DEP | ESPN 2
-http://192.99.70.160:25461/Victor/Victor/91061
-#EXTINF:-1 group-title="DEPORTES",ARG DEP | ESPN 3
-http://192.99.70.160:25461/Victor/Victor/91062
-#EXTINF:-1 group-title="DEPORTES",ARG DEP | ESPN PLUS
-http://192.99.70.160:25461/Victor/Victor/91066
-#EXTINF:-1 group-title="DEPORTES",COL DEP | ESPN
-http://192.99.70.160:25461/Victor/Victor/91067
-#EXTINF:-1 group-title="DEPORTES",COL DEP | ESPN 2
-http://192.99.70.160:25461/Victor/Victor/91068
+http://elmonkey.us:25461/john/1234/91056
 #EXTINF:-1 group-title="DEPORTES",COL DEP | ESPN 3
-http://192.99.70.160:25461/Victor/Victor/91069
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWMk2fP.png" group-title="MUSIC",Cantina TV (1080p)
-http://192.99.70.160:25461/Victor/Victor/91898
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L38mC6H.png" group-title="MUSIC",CMC (California Music Channel)
-http://192.99.70.160:25461/Victor/Victor/91902
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="MUSIC",Isai Aruvi (576p)
-http://192.99.70.160:25461/Victor/Victor/91949
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JCpbUZB.png" group-title="MUSIC",Italianissimo (360p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/91950
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GHJkxaB.png" group-title="MUSIC",La Chilena TV
-http://192.99.70.160:25461/Victor/Victor/91962
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QZQhg6C.png" group-title="MUSIC",Magic TV (480p)
-http://192.99.70.160:25461/Victor/Victor/91968
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="MUSIC",Miel TV (Satipo) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/91976
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC",Muzzik Jeka Serbia (720p) [Geo-blocked]
-http://192.99.70.160:25461/Victor/Victor/91993
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" group-title="MUSIC",Muzzik OKK Serbia (720p) [Geo-blocked]
-http://192.99.70.160:25461/Victor/Victor/91995
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u5804Au.jpg" group-title="MUSIC",Ondambiantal TV (Bogotà | Cundinamarca)
-http://192.99.70.160:25461/Victor/Victor/92010
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="MUSIC",Vallenato Internacional (720p) [Not 24/7]
-http://192.99.70.160:25461/Victor/Victor/92120
+http://elmonkey.us:25461/john/1234/91069
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="DEPORTES",USA | ESPN  (opc 3)
+http://elmonkey.us:25461/john/1234/297
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="MUSICA",9XM (480p)
+http://elmonkey.us:25461/john/1234/91868
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWMk2fP.png" group-title="MUSICA",Cantina TV (1080p)
+http://elmonkey.us:25461/john/1234/91898
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="MUSICA",El Sol Network TV
+http://elmonkey.us:25461/john/1234/91909
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h1N60QR.png" group-title="MUSICA",Falastini (720p)
+http://elmonkey.us:25461/john/1234/91914
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ffhT11J.png" group-title="MUSICA",Gal�ctica TV (Peru) (1080p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/91921
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JCpbUZB.png" group-title="MUSICA",Italianissimo (360p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/91950
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xT9fsvYQ/jawhara-fm-tv.jpg" group-title="MUSICA",JAWHARA TV (720p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/91953
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="MUSICA",Kuriakos Music (1080p)
+http://elmonkey.us:25461/john/1234/91961
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GHJkxaB.png" group-title="MUSICA",La Chilena TV
+http://elmonkey.us:25461/john/1234/91962
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e38DNzI.png" group-title="MUSICA",Mun2TV (720p)
+http://elmonkey.us:25461/john/1234/91985
+#EXTINF:-1 tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="MUSICA",Qwest TV Jazz & Beyond (720p) [Geo-blocked]
+http://elmonkey.us:25461/john/1234/92050
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QB3tz0d.png" group-title="MUSICA",SanjuaneraTV [Not 24/7]
+http://elmonkey.us:25461/john/1234/92075
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3i1HtE.jpg" group-title="MUSICA",The Retro Channel (1080p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/92107
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="MUSICA",TV A7 Plus (1080p)
+http://elmonkey.us:25461/john/1234/92114
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="MUSICA",Vallenato Internacional (720p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/92120
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal-32-tr.png" group-title="MUSICA",Kanal 32 (480p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/103839
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="MUSICA",Power Turk (1080p) [Not 24/7]
+http://elmonkey.us:25461/john/1234/103863
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="MUSICA",Power TV (1080p)
+http://elmonkey.us:25461/john/1234/103864
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lfHVabz.png" group-title="MUSICA",Sariyer TV (360p)
+http://elmonkey.us:25461/john/1234/103867
