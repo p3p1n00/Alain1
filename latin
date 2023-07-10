@@ -1,0 +1,941 @@
+#EXTM3U
+#EXTINF:-1 group-title="ESPAÑA",ES: Antena 3 FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100547.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Antena 3 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100546.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Antena 3 Internacional FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100550.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Antena 3 Internacional HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100549.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Antena 3 SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100545.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Canal Cocina FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100592.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Canal Cocina SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100591.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Cuatro FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100553.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Cuatro HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100552.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Cuatro SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100551.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Discovery Channel SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100604.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Historia SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100606.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: La 2 SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100542.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: La Sexta FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100559.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: La Sexta HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100558.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: La Sexta SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100557.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: M. Comedia HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100677.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: M. Comedia SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100676.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: M. Dreamworks HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100729.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: MEGA HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100571.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: NatGeo Wild HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100612.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: SOMOS FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100635.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Telecinco FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100556.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Telecinco HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100555.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: Telecinco SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100554.m3u8
+#EXTINF:-1 group-title="ESPAÑA",ES: TVE Internacional SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100537.m3u8
+#EXTINF:-1 group-title="LATINOS",ARG: Telesur
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210863.m3u8
+#EXTINF:-1 group-title="LATINOS",ARG| IP NOTICIAS
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/216770.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| A24
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210833.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| America TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210836.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| America TV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210835.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| Canal 21
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210839.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| Canal 26
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210840.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| Canal 26 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210841.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| Cine AR HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210844.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| Ciudad Magazine
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210845.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| Cronica
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210848.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| El Nueve
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210850.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| El Nueve HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210851.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| Garaje
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210854.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| Glitz
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210855.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| LN+
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210856.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| Telefe
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210861.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| TN
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210864.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| TNT Sports HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2140800.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| TV Publica
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210865.m3u8
+#EXTINF:-1 group-title="LATINOS",AR| Volver
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/210868.m3u8
+#EXTINF:-1 group-title="LATINOS",BO | Abya Yala Tv
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2167183.m3u8
+#EXTINF:-1 group-title="LATINOS",BO | Cinerama
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2167179.m3u8
+#EXTINF:-1 group-title="LATINOS",BO | Erbol TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2167176.m3u8
+#EXTINF:-1 group-title="LATINOS",BO | Red Advenir
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2167181.m3u8
+#EXTINF:-1 group-title="LATINOS",BO | SEO TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2167172.m3u8
+#EXTINF:-1 group-title="LATINOS",BO | SEO TV 2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2167174.m3u8
+#EXTINF:-1 group-title="LATINOS",BO | SEO TV Novelas
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2167173.m3u8
+#EXTINF:-1 group-title="LATINOS",BO || Bolivision &gt;)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/188404.m3u8
+#EXTINF:-1 group-title="LATINOS",BO || Bolivision HD &gt;)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/188403.m3u8
+#EXTINF:-1 group-title="LATINOS",BO || Gigavision &gt;)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/188408.m3u8
+#EXTINF:-1 group-title="LATINOS",BO || Red Uno Santa Cruz &gt;)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/188411.m3u8
+#EXTINF:-1 group-title="LATINOS",BOL | Mega TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/226124.m3u8
+#EXTINF:-1 group-title="LATINOS",Cable Onda (PAN)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/201868.m3u8
+#EXTINF:-1 group-title="LATINOS",CAMPUS TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100953.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | 13i
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25356.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | 24 Horas
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25357.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Canal 13
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25358.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | CDO
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25372.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | CDO Basico
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25354.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | CDO Premium
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25371.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Chilevision
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25376.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Chilevision FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25374.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Chilevision HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25375.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Estadio TNT Sports
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25361.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Etc TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25378.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Etc Tv
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25390.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | La Red
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25379.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | La Red HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25380.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Mega
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25381.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Mega FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25384.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | MEGA HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25345.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Rec TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25386.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Sporting HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25392.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Teletrak
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25347.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | Teletrak HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25373.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | TNT SPORTS
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25362.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | TNT SPORTS 2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25340.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | TNT SPORTS 3
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25366.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | TNT SPORTS FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25365.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | TNT SPORTS HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25369.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | TNT SPORTS HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25363.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | TVN
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25387.m3u8
+#EXTINF:-1 group-title="LATINOS",CL | TVN HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/25388.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Cali TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155733.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Canal Capital HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155734.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Canal CNC Medellin
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155737.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Caracol
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176570.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Caracol FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176568.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Caracol HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176569.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Caracol HD2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/202067.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Caracol Internacional
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176613.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Caracol Internacional FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/199323.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Caracol Internacional HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/202068.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | CITY TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176595.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | City TV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176573.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | El Tiempo
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155738.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | NTN24
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176615.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Pasiones
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176777.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Pasiones HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155735.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | RCN
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155680.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | RCN FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155681.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | RCN HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176580.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | RCN Internacional HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/199513.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | RCN Novelas
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176599.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | RCN Novelas HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155682.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Se�al Colombia HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155736.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | TeleAntioquia HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176582.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Telecaf�
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176618.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Telecaf� HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176602.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | TeleCaribe
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176619.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Telecaribe HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176583.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Teleislas
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/202129.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Telemedellin
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176606.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Telemedellin HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/202130.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Telepacifico
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176607.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | TelePacifico HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176620.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | TV AGRO
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176608.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Win Sports
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176585.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Win Sports +
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155693.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Win Sports + FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155248.m3u8
+#EXTINF:-1 group-title="LATINOS",CO | Win Sports + HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/12257.m3u8
+#EXTINF:-1 group-title="LATINOS",COL | Cali TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/217129.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | 88 Stereo
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/222742.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Canal 1
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2159177.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Canal 14 Tv Sur
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10340.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Canal 2 Repretel HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2148422.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Canal 4 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2148425.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Canal 8 Multimedios
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2082313.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Extrema TV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10339.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Repretel 11
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/224194.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Repretel Canal 6
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10337.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | TD+
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/184899.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Telered HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2148423.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Telesur
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10342.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | Tigo Sports HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10336.m3u8
+#EXTINF:-1 group-title="LATINOS",CR | VM LATINO
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2089786.m3u8
+#EXTINF:-1 group-title="LATINOS",CR| FUTV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2121812.m3u8
+#EXTINF:-1 group-title="LATINOS",CR| Trivison 36
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2132365.m3u8
+#EXTINF:-1 group-title="LATINOS",E | A&E
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/222250.m3u8
+#EXTINF:-1 group-title="LATINOS",E | A&E FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/148716.m3u8
+#EXTINF:-1 group-title="LATINOS",E | A&E HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10546.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Clan MX
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2163077.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Dream Works
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2163078.m3u8
+#EXTINF:-1 group-title="LATINOS",E | E!
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10556.m3u8
+#EXTINF:-1 group-title="LATINOS",E | E! FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/148722.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Europa TV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145664.m3u8
+#EXTINF:-1 group-title="LATINOS",E | FX
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10560.m3u8
+#EXTINF:-1 group-title="LATINOS",E | FX FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/148725.m3u8
+#EXTINF:-1 group-title="LATINOS",E | FX HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10561.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Glitz
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10564.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Glitz HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/154070.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Hola TV FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/148809.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Hola TV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10575.m3u8
+#EXTINF:-1 group-title="LATINOS",E | I-SAT
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2163079.m3u8
+#EXTINF:-1 group-title="LATINOS",E | LA ROSA DE GUADALUPE TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2083045.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Lifetime
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/187634.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Lifetime FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/187635.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Lifetime HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/188850.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Mas Chic FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/148808.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Mas Chic HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10569.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Telemundo (ARG)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2147952.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Telemundo MX
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145673.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Tru TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10579.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Tru TV FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/148804.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Tru TV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10580.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Unicable
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10581.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Unicable HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10582.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Universal TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/197619.m3u8
+#EXTINF:-1 group-title="LATINOS",E | Univision Tlnovelas
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10572.m3u8
+#EXTINF:-1 group-title="LATINOS",EC | Telerama
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/219710.m3u8
+#EXTINF:-1 group-title="LATINOS",EC|  Gama TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2130522.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Canela TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176954.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Canela TV HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/147950.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Ecotel
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2130489.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Ecuador TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11029.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Ecuavisa
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11031.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Ecuavisa FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/153885.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Ecuavisa HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11032.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Ecuavisa Internacional
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11033.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Ecuavisa Internacional HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/147959.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Ecuavisa Quito HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2138875.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Ecuavisa Sierra
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176963.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Gamavision
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11034.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Gamavision FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/153888.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Gamavision HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/147955.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Oromar Television
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/147956.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Oromar Television FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176967.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Oromar Television HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11035.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| RTS
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11037.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| RTS FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/153887.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| RTS HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11036.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| RTU
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/153890.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Teleamazonas
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11040.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Teleamazonas FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/153891.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Teleamazonas Guayaquil HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145107.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Teleamazonas HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11043.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Teleamazonas Quito
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/147954.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Teleamazonas Quito FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/153892.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Teleamazonas Quito HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11042.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| Teleamazonas Sierra
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/176976.m3u8
+#EXTINF:-1 group-title="LATINOS",EC| TVC HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/147952.m3u8
+#EXTINF:-1 group-title="LATINOS",EC|: Hechos Ecuador
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2130559.m3u8
+#EXTINF:-1 group-title="LATINOS",EC|: Sono Onda
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2130709.m3u8
+#EXTINF:-1 group-title="LATINOS",EC|: Televicentro
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2130710.m3u8
+#EXTINF:-1 group-title="LATINOS",GT | TeleCosta
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2157468.m3u8
+#EXTINF:-1 group-title="LATINOS",GT: Azteca Guatemala
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155925.m3u8
+#EXTINF:-1 group-title="LATINOS",GT: Canal 13
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155923.m3u8
+#EXTINF:-1 group-title="LATINOS",GT: Canal 27
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2151605.m3u8
+#EXTINF:-1 group-title="LATINOS",GT: Canal 3
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155922.m3u8
+#EXTINF:-1 group-title="LATINOS",GT: Canal 7
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155921.m3u8
+#EXTINF:-1 group-title="LATINOS",GT: Retro Tv
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155918.m3u8
+#EXTINF:-1 group-title="LATINOS",GT: TN23
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155926.m3u8
+#EXTINF:-1 group-title="LATINOS",GT| Canal 5 Solola
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2138224.m3u8
+#EXTINF:-1 group-title="LATINOS",HCH
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100955.m3u8
+#EXTINF:-1 group-title="LATINOS",HN | Guayape TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2165546.m3u8
+#EXTINF:-1 group-title="LATINOS",HN: Canal 11
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100971.m3u8
+#EXTINF:-1 group-title="LATINOS",HN: Canal 5
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100966.m3u8
+#EXTINF:-1 group-title="LATINOS",HN: Ebenezer TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100975.m3u8
+#EXTINF:-1 group-title="LATINOS",HN: HCH
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100968.m3u8
+#EXTINF:-1 group-title="LATINOS",HN: Q'HUBO TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100972.m3u8
+#EXTINF:-1 group-title="LATINOS",HN: Sercano TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100977.m3u8
+#EXTINF:-1 group-title="LATINOS",HN: Tigo sports
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100964.m3u8
+#EXTINF:-1 group-title="LATINOS",HN: Todo Deportes
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100970.m3u8
+#EXTINF:-1 group-title="LATINOS",HON | CANAL 11
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100956.m3u8
+#EXTINF:-1 group-title="LATINOS",HON | Canal 6
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100954.m3u8
+#EXTINF:-1 group-title="LATINOS",HON | TELEVICENTRO
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100957.m3u8
+#EXTINF:-1 group-title="LATINOS",HON | TIGO SPORTS
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100958.m3u8
+#EXTINF:-1 group-title="LATINOS",HON | TODO DEPORTES
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100959.m3u8
+#EXTINF:-1 group-title="LATINOS",HONDURAS | Q HUBO TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100963.m3u8
+#EXTINF:-1 group-title="LATINOS",HOND| AZTECA
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100988.m3u8
+#EXTINF:-1 group-title="LATINOS",HOND| CANAL 11 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100982.m3u8
+#EXTINF:-1 group-title="LATINOS",HOND| TELECADENA HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100981.m3u8
+#EXTINF:-1 group-title="LATINOS",HOND| TELECEIBA HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100984.m3u8
+#EXTINF:-1 group-title="LATINOS",HOND| TIGO SPORTS HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100978.m3u8
+#EXTINF:-1 group-title="LATINOS",HOND| TNH HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100965.m3u8
+#EXTINF:-1 group-title="LATINOS",HOND| TODO DEPORTES HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2100987.m3u8
+#EXTINF:-1 group-title="LATINOS",M | A+
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/76427.m3u8
+#EXTINF:-1 group-title="LATINOS",M | A+ FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/154117.m3u8
+#EXTINF:-1 group-title="LATINOS",M | A+ HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/76504.m3u8
+#EXTINF:-1 group-title="LATINOS",M | AMX Noticias
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145669.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Azteca 7
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/154122.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Azteca Clic
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/197238.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Azteca Clic HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145513.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Azteca HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/199505.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Azteca Mundo
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10800.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Azteca Uno
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10835.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Azteca Uno -2 Horas
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055627.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Azteca Uno FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10816.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Azteca Uno HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/203184.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Azteca Uno HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155185.m3u8
+#EXTINF:-1 group-title="LATINOS",M | CANAL 12 Tijuana
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/165131.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 13 Michoacan
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2158066.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 13 Oaxaca
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2158069.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 13 Puebla
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2158071.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 13 Tabasco
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2158065.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 15 Fresnillo
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/165124.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 22
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2159387.m3u8
+#EXTINF:-1 group-title="LATINOS",M | CANAL 26 Aguascalientes
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10823.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 4 FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10826.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 4 Guadalajara
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2123315.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 4 Guajuato HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145674.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 5
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10839.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 5 FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/27472.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 5 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155186.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 6.2 Multimedios Saltillo
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/212819.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal 8 - La Paz BCS
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10820.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal del Congreso
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145514.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal Judicial HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10831.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal Once
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10836.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal Once FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/84527.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Canal Once HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/154116.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Cortv Oaxaca
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/216025.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Imagen TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10822.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Imagen TV FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155181.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Imagen TV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155182.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Jalisco TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/216023.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Justicia TV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145666.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Las Estrellas
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/154121.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Las Estrellas -1 Hora
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2153486.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Las Estrellas -2 Horas
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/212817.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Las Estrellas FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/27471.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Multimedios FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155188.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Multimedios HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/199373.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Multimedios Laguna
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/165127.m3u8
+#EXTINF:-1 group-title="LATINOS",M | N+
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2113879.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Nu9ve
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/154124.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Nu9ve FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10837.m3u8
+#EXTINF:-1 group-title="LATINOS",M | RCG 3 Saltillo
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/165132.m3u8
+#EXTINF:-1 group-title="LATINOS",M | RTQ Queretaro
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/165133.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Telemax
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/97293.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Telemax Hermosillo
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/165136.m3u8
+#EXTINF:-1 group-title="LATINOS",M | TeleVer
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10832.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Televisa (Leon) FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10827.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Televisa Guadalajara
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2157917.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Televisa Monterrey
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/154120.m3u8
+#EXTINF:-1 group-title="LATINOS",M | Televisa Puebla HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145663.m3u8
+#EXTINF:-1 group-title="LATINOS",M | TV MAS
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10817.m3u8
+#EXTINF:-1 group-title="LATINOS",M | TV MAS FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10829.m3u8
+#EXTINF:-1 group-title="LATINOS",M | TVP Culiacan
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145787.m3u8
+#EXTINF:-1 group-title="LATINOS",M | TVT Tabasco
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2123294.m3u8
+#EXTINF:-1 group-title="LATINOS",MULTIMEDIOS Baj�o HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2151042.m3u8
+#EXTINF:-1 group-title="LATINOS",M| Canal 12 Tijuana
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2123316.m3u8
+#EXTINF:-1 group-title="LATINOS",M| Canal 4
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2123314.m3u8
+#EXTINF:-1 group-title="LATINOS",N | Canal 44 - El Canal de las Noticias
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/200381.m3u8
+#EXTINF:-1 group-title="LATINOS",NG| Canal 11
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155900.m3u8
+#EXTINF:-1 group-title="LATINOS",NG| Canal 12
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155901.m3u8
+#EXTINF:-1 group-title="LATINOS",NG| Canal 2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155894.m3u8
+#EXTINF:-1 group-title="LATINOS",NIC | Canal 10 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2149213.m3u8
+#EXTINF:-1 group-title="LATINOS",P | Universal TV FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155179.m3u8
+#EXTINF:-1 group-title="LATINOS",P | Universal TV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/75651.m3u8
+#EXTINF:-1 group-title="LATINOS",PA| Mas Tv 23
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155906.m3u8
+#EXTINF:-1 group-title="LATINOS",PA| SER TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155914.m3u8
+#EXTINF:-1 group-title="LATINOS",PA| TV MAX
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155916.m3u8
+#EXTINF:-1 group-title="LATINOS",PA| TVN
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2124371.m3u8
+#EXTINF:-1 group-title="LATINOS",PE  | Antares
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2159180.m3u8
+#EXTINF:-1 group-title="LATINOS",PE | Autentica TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2159181.m3u8
+#EXTINF:-1 group-title="LATINOS",PE | BH TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2159182.m3u8
+#EXTINF:-1 group-title="LATINOS",PE | Canal X TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2160741.m3u8
+#EXTINF:-1 group-title="LATINOS",PE | Charapa
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2160740.m3u8
+#EXTINF:-1 group-title="LATINOS",PE | Ovacion
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2160743.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| America TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10626.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| America TV FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/199968.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| America TV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11437.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| ATV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10639.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| ATV HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/12424.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| ATV+
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155850.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Canal N
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10636.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Capital TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10635.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Directv Sports Peru HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/186933.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Exitosa
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10642.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Fox Sports Peru HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/12426.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Gol Peru
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10921.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Gol Peru HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/16369.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Gol Peru v2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/179041.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Latina
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10630.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Latina HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10629.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Movistar Deportes
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/11438.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Movistar Deportes HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10643.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Movistar Plus
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/192424.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Panamericana
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10628.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Panamericana HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10640.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Peru Magico FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10634.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Peru Noticias
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155853.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| RPP
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10633.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Sur Peru
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/202722.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Willax
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/200945.m3u8
+#EXTINF:-1 group-title="LATINOS",PE| Willax HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10641.m3u8
+#EXTINF:-1 group-title="LATINOS",PR| AmericaTeVe Miami
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/213797.m3u8
+#EXTINF:-1 group-title="LATINOS",PR| Punto 2 TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/126159.m3u8
+#EXTINF:-1 group-title="LATINOS",PR| Telemundo
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/126157.m3u8
+#EXTINF:-1 group-title="LATINOS",PR| Univision
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/126162.m3u8
+#EXTINF:-1 group-title="LATINOS",PR| Wapa
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/126154.m3u8
+#EXTINF:-1 group-title="LATINOS",PR| Wapa 2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/126158.m3u8
+#EXTINF:-1 group-title="LATINOS",PR| WAPA America
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10913.m3u8
+#EXTINF:-1 group-title="LATINOS",PR| Wapa HQ
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/126163.m3u8
+#EXTINF:-1 group-title="LATINOS",PR| Wipr Canal 6
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/126153.m3u8
+#EXTINF:-1 group-title="LATINOS",PY* | ABC
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/215764.m3u8
+#EXTINF:-1 group-title="LATINOS",PY* | PARAVISION HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/215762.m3u8
+#EXTINF:-1 group-title="LATINOS",PY*| ABC TV (PY)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2107646.m3u8
+#EXTINF:-1 group-title="LATINOS",PY*| C9N (PY)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2107633.m3u8
+#EXTINF:-1 group-title="LATINOS",PY*| FARRA PLAY (PY)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2107634.m3u8
+#EXTINF:-1 group-title="LATINOS",PY*| LA TELE (PY)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2107635.m3u8
+#EXTINF:-1 group-title="LATINOS",PY*| NOTICIAS (PY)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2107636.m3u8
+#EXTINF:-1 group-title="LATINOS",PY*| PUENTE DE LA AMISTAD (PY)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2107647.m3u8
+#EXTINF:-1 group-title="LATINOS",PY*| RPC (PY)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2107639.m3u8
+#EXTINF:-1 group-title="LATINOS",PY| Tigo Sports (OP 1)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2122883.m3u8
+#EXTINF:-1 group-title="LATINOS",PY| TIGO SPORTS + (OPC 1)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2122884.m3u8
+#EXTINF:-1 group-title="LATINOS",RD | CARIVISION
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2164815.m3u8
+#EXTINF:-1 group-title="LATINOS",RD | CATORCETV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2164814.m3u8
+#EXTINF:-1 group-title="LATINOS",RD | Digital 15
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/224023.m3u8
+#EXTINF:-1 group-title="LATINOS",RD | Nisibon TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2164819.m3u8
+#EXTINF:-1 group-title="LATINOS",RD | RED TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2123286.m3u8
+#EXTINF:-1 group-title="LATINOS",RD | TELEMICRO
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/223876.m3u8
+#EXTINF:-1 group-title="LATINOS",RD | TV HIGUEY
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2164817.m3u8
+#EXTINF:-1 group-title="LATINOS",RD | Urbancristv 2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2164821.m3u8
+#EXTINF:-1 group-title="LATINOS",RD:  Cine Vision 19
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190803.m3u8
+#EXTINF:-1 group-title="LATINOS",RD:  Galaxia Tv 42
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190800.m3u8
+#EXTINF:-1 group-title="LATINOS",RD:  Super Tv 55
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190821.m3u8
+#EXTINF:-1 group-title="LATINOS",RD: CDN
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190807.m3u8
+#EXTINF:-1 group-title="LATINOS",RD: CineVision Canal 19
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190804.m3u8
+#EXTINF:-1 group-title="LATINOS",RD: Megavision
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190822.m3u8
+#EXTINF:-1 group-title="LATINOS",RD: Romana Tv
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190818.m3u8
+#EXTINF:-1 group-title="LATINOS",RD: SITV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190820.m3u8
+#EXTINF:-1 group-title="LATINOS",RD: Telebendicion
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190816.m3u8
+#EXTINF:-1 group-title="LATINOS",RD: Telemicro Canal 5
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190814.m3u8
+#EXTINF:-1 group-title="LATINOS",RD: Telemilenio
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190813.m3u8
+#EXTINF:-1 group-title="LATINOS",RD: Telesistema
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190812.m3u8
+#EXTINF:-1 group-title="LATINOS",RD: TeleUniverso
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/199377.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| Antena Latina HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2139294.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| Canal 25
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2125088.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| CatorceTV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144118.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| CDN Deportes
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2125092.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| Cinevision
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/190805.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| Colimbo TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144121.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| Constanza TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2130380.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| Coral 39
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144120.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| MICROVISION
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2125091.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| Telecentro
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/214868.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| Telefuturo Canal 23
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2125089.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| Telenord 12
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2168497.m3u8
+#EXTINF:-1 group-title="LATINOS",RD| Telenord Canal 14
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144117.m3u8
+#EXTINF:-1 group-title="LATINOS",RPC (PAN)
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/201866.m3u8
+#EXTINF:-1 group-title="LATINOS",UY:  Canal 4
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055388.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: Canal 10 SAETA
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055383.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: Canal 12
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055394.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: Canal 4
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055391.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: Canal 4 Montecarlo
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055405.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: Canal 4 Salto
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055402.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: Ciudad TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055404.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: La Tele
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055395.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: TeleDoce
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055384.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: TV Ciudad
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055403.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: VTV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055385.m3u8
+#EXTINF:-1 group-title="LATINOS",UY: VTV Plus
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2055406.m3u8
+#EXTINF:-1 group-title="LATINOS",VE: Rusia today
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2106079.m3u8
+#EXTINF:-1 group-title="LATINOS",VE| Canal I
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2123566.m3u8
+#EXTINF:-1 group-title="LATINOS",VE| CGNTV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2106081.m3u8
+#EXTINF:-1 group-title="LATINOS",VE| Globovision
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2106060.m3u8
+#EXTINF:-1 group-title="LATINOS",VE| IVC
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2145660.m3u8
+#EXTINF:-1 group-title="LATINOS",VE| La Tele Tuya TLT
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2106083.m3u8
+#EXTINF:-1 group-title="LATINOS",VE| Promar
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2106080.m3u8
+#EXTINF:-1 group-title="LATINOS",VE| Telesur
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2123568.m3u8
+#EXTINF:-1 group-title="LATINOS",VE| TeleVen
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2106065.m3u8
+#EXTINF:-1 group-title="LATINOS",VE| TLT
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2123567.m3u8
+#EXTINF:-1 group-title="SPORT",D | TIGO SPORTS GUATEMALA
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/219775.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 1
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/223949.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 1 FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144852.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 1 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144853.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 1 SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144854.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/223950.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 3
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/223951.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 3 FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144858.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 3 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144859.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 3 SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144860.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 4 FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144861.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN 4 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144862.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN F1
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/223952.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN F1 FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144849.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN F1 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144850.m3u8
+#EXTINF:-1 group-title="SPORT",D| DAZN F1 SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2144851.m3u8
+#EXTINF:-1 group-title="SPORT",D| FOX Sports Premium Arg
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/195839.m3u8
+#EXTINF:-1 group-title="SPORT",D| FOX Sports Premium Arg FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/195840.m3u8
+#EXTINF:-1 group-title="SPORT",D| FOX Sports Premium Arg HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10915.m3u8
+#EXTINF:-1 group-title="SPORT",D| Movistar F1
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/158473.m3u8
+#EXTINF:-1 group-title="SPORT",D| Movistar F1 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/170225.m3u8
+#EXTINF:-1 group-title="SPORT",D| Real Madrid TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/222746.m3u8
+#EXTINF:-1 group-title="SPORT",D| TUDN
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/191356.m3u8
+#EXTINF:-1 group-title="SPORT",D| TUDN FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/10955.m3u8
+#EXTINF:-1 group-title="SPORT",D| TUDN HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/155675.m3u8
+#EXTINF:-1 group-title="SPORT",LALIGA | MOVISTAR LALIGA 1
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/223953.m3u8
+#EXTINF:-1 group-title="SPORT",LALIGA | MOVISTAR LALIGA 2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/223954.m3u8
+#EXTINF:-1 group-title="SPORT",LALIGA | MOVISTAR LALIGA 3
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/223955.m3u8
+#EXTINF:-1 group-title="SPORT",LALIGA | MOVISTAR LALIGA 4
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/223956.m3u8
+#EXTINF:-1 group-title="SPORT",SP: La Liga: Dazn Formula 1 HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2133206.m3u8
+#EXTINF:-1 group-title="SPORT",SP: La Liga: LaLiga TV Bar FHD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2133209.m3u8
+#EXTINF:-1 group-title="SPORT",SP: La Liga: M. LaLiga 1
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2133210.m3u8
+#EXTINF:-1 group-title="SPORT",SP: La Liga: M. LaLiga 2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2133211.m3u8
+#EXTINF:-1 group-title="SPORT",SP: La Liga: M. LaLiga 3
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2133212.m3u8
+#EXTINF:-1 group-title="SPORT",SP: La Liga: M. LaLiga HD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2133208.m3u8
+#EXTINF:-1 group-title="SPORT",SP: La Liga: M. LaLiga SD
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2133207.m3u8
+#EXTINF:-1 group-title="SPORT",SP: La Liga: M. Liga de Campeones 2
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2133222.m3u8
+#EXTINF:-1 group-title="SPORT",SP: La Liga: M. Liga de Campeones 4
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2133224.m3u8
+#EXTINF:-1 group-title="SPORT",SP: La Liga: Real Madrid TV
+http://sdmx.vip:8080/live/xmVBRPM83Qpu/c3XKrEc4zrnH/2133231.m3u8
