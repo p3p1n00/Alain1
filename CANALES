@@ -1,12 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="panamericana.pe",panamericana
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/3173
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/192237
 #EXTINF:-1 tvg-id="atv.pe",atv
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/296303
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/64666
 #EXTINF:-1 tvg-id="america.pe",america
-http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/8983
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/102641
+#EXTINF:-1 tvg-id="america.pe",america HD
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/102643
 #EXTINF:-1 tvg-id="latina.pe",latina
 http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/46590
+#EXTINF:-1 tvg-id="latina.pe",latina hd
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/21772
+#EXTINF:-1 tvg-id="latina.pe",latina tv
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/186626
+#EXTINF:-1 tvg-id="latina.pe",latina otro
+http://home-playtv.com:8080/LAtinoA100/Wy894ENVXXhhh56/203615
 #EXTINF:-1 tvg-id="AgroTV.pe",Agro TV (Apurimac) (720p) [Not 24/7]
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="AndesTelevision.pe",Andes Televisión (720p) (720p) [Not 24/7]
