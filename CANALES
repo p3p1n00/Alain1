@@ -251,8 +251,6 @@ http://177.53.153.20:8001/play/a00v/index.m3u8
 http://177.53.153.20:8001/play/a03e/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0at.png",Pasiones HD
 http://177.53.153.20:8001/play/a0at/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0bg.png",Playboy HD
-http://177.53.153.20:8001/play/a0bg/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c4.png",RCN HD
 http://177.53.153.20:8001/play/a0c4/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c0.png",RCN Novelas
@@ -343,8 +341,6 @@ http://177.53.153.20:8001/play/a09f/index.m3u8
 http://177.53.153.20:8001/play/a0au/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a0c9.png",VISION TV 
 http://177.53.153.20:8001/play/a0c9/index.m3u8
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01o.png",Venus
-http://177.53.153.20:8001/play/a01o/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a08l.png",WARNER HD
 http://177.53.153.20:8001/play/a08l/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00j.png",WILLAX
