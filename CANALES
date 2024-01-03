@@ -1,16 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="panamericana.pe",panamericana
 http://home-playtv.com:8080/RMVBU/HZSEP/192237
-#EXTINF:-1 tvg-id="atv.pe",atv
-http://home-playtv.com:8080/RMVBU/HZSEP/64666
+#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a00z.png",ATV
+http://177.53.153.20:8001/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="america.pe",america
 http://177.53.153.20:8001/play/a03w/index.m3u8
-#EXTINF:-1 tvg-id="latina.pe",latina
-http://home-playtv.com:8080/RMVBU/HZSEP/21772
-#EXTINF:-1 tvg-id="latina.pe",latina hd
-http://home-playtv.com:8080/RMVBU/HZSEP/186626
-#EXTINF:-1 tvg-id="latina.pe",latina tv
-http://home-playtv.com:8080/RMVBU/HZSEP/203615
+#EXTINF:-1 tvg-id="Latina.pe",Latina (720p)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Latina.pe",Latina (720p) [Geo-blocked]
+https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a01s.png",A&E HD
 http://177.53.153.20:8001/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a039.png",AMC HD
