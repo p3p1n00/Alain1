@@ -1,14 +1,60 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PanamericanaTV.pe",Panamericana TV (1080p) [Not 24/7]
-https://cdnhd.iblups.com/hls/ptv5.m3u8
-#EXTINF:-1 tvg-id="ATV.pe",ATV (720p) [Not 24/7]
-https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="america.pe",america
-http://190.119.178.44:8000/play/a02n/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe",Latina (720p)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Latina.pe",Latina (720p) [Geo-blocked]
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8
+#EXTINF:-1,AMERICA TV - RX ISDB-T
+http://38.56.220.254:8000/play/a001/index.m3u8
+#EXTINF:-1,ATV + - RX ISDBT
+http://38.56.220.254:8000/play/a006/index.m3u8
+#EXTINF:-1,ATV HD - RX ISDBT
+http://38.56.220.254:8000/play/a005/index.m3u8
+#EXTINF:-1,ATV SUR - RX ISDBT
+http://38.56.220.254:8000/play/a00b/index.m3u8
+#EXTINF:-1,Conecta2 tv - PATRICIA
+http://38.56.220.254:8000/play/a07x/index.m3u8
+#EXTINF:-1,EL PAYASO PLIN PLIN - apple tv
+http://38.56.220.254:8000/play/a00o/index.m3u8
+#EXTINF:-1,ESports Max
+http://38.56.220.254:8000/play/a01c/index.m3u8
+#EXTINF:-1,Encoder - 2
+http://38.56.220.254:8000/play/a00j/index.m3u8
+#EXTINF:-1,GLOBAL HD - RX ISDBT
+http://38.56.220.254:8000/play/a008/index.m3u8
+#EXTINF:-1,IPE - RX  ISDB-T 
+http://38.56.220.254:8000/play/a003/index.m3u8
+#EXTINF:-1,Kanal D - apple tv
+http://38.56.220.254:8000/play/a00k/index.m3u8
+#EXTINF:-1,LATINA HD - RX ISDBT
+http://38.56.220.254:8000/play/a007/index.m3u8
+#EXTINF:-1,LIGA 1
+http://38.56.220.254:8000/play/a01l/index.m3u8
+#EXTINF:-1,LIGA 1 BASICO - SATELITE 
+http://38.56.220.254:8000/play/a01p/index.m3u8
+#EXTINF:-1,LIGA 1 MAX
+http://38.56.220.254:8000/play/a01k/index.m3u8
+#EXTINF:-1,LIGA 1 MAX - SATELITE
+http://38.56.220.254:8000/play/a01o/index.m3u8
+#EXTINF:-1,LOVE NATURE - apple tv
+http://38.56.220.254:8000/play/a00i/index.m3u8
+#EXTINF:-1,Novelisima
+http://38.56.220.254:8000/play/a03x/index.m3u8
+#EXTINF:-1,Novelisima Digital
+http://38.56.220.254:8000/play/a00u/index.m3u8
+#EXTINF:-1,PANAMERICANA HD - RX ISDBT
+http://38.56.220.254:8000/play/a009/index.m3u8
+#EXTINF:-1,Sazon tv - PATRICIA
+http://38.56.220.254:8000/play/a06x/index.m3u8
+#EXTINF:-1,TV PERU - RX  ISDB-T
+http://38.56.220.254:8000/play/a002/index.m3u8
+#EXTINF:-1,Vene tv - PATRICIA
+http://38.56.220.254:8000/play/a04x/index.m3u8
+#EXTINF:-1,Veplus
+http://38.56.220.254:8000/play/a05x/index.m3u8
+#EXTINF:-1,aaa
+http://38.56.220.254:8000/play/a01r/index.m3u8
+#EXTINF:-1,encoder 3 -SRT
+http://38.56.220.254:8000/play/a00m/index.m3u8
+#EXTINF:-1,encoder 3 . Unicast
+http://38.56.220.254:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="AgroTV.pe",Agro TV (Apurimac) (720p) [Not 24/7]
 https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 #EXTINF:-1 tvg-id="AndesTelevision.pe",Andes Televisión (720p) (720p) [Not 24/7]
@@ -301,3 +347,8 @@ https://live.obslivestream.com/wtv/index.m3u8
 https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8
 #EXTINF:-1 tvg-id="",X TV Zona Film
 https://vdo.panelchs.com:3769/live/vdo54575151live.m3u8
+#EXTINF:-1 tvg-id="UcayalinadeTelevision.pe",Ucayalina de Televisión [Not 24/7]
+https://video.agenciastreaming.com:3959/live/utvlive.m3u8
+#EXTINF:-1 tvg-id="LikeTV.pe",Like TV
+https://vdo.grupolimalive.com:3618/live/liketvlive.m3u8
+
